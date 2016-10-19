@@ -17,7 +17,7 @@
 	</engines>
 
     <dependency id="cordova-labs-local-webserver" url="https://git-wip-us.apache.org/repos/asf/cordova-plugins.git#master:local-webserver" version=">=2.3.1" />
-    <dependency id="cordova-plugin-wkwebview-engine" version=">=1.0.1" />
+    <dependency id="cordova-plugin-wkwebview-engine" url="https://github.com/laborsync/cordova-plugin-wkwebview-engine.git#master" version=">=1.0.1" />
 
     <!-- ios -->
     <platform name="ios">
